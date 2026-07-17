@@ -1,73 +1,85 @@
-<h1 align="center">Hi 👋, I'm Nagakrishna Devabathini</h1>
-<h3 align="center">DevOps Engineer | AWS | Kubernetes | Docker | Jenkins | Terraform | Argo CD | GitOps | Amazon EKS</h3>
+<h1 align="center">Nagakrishna Devabathini</h1>
+
+<h3 align="center">
+DevOps Engineer | AWS | Kubernetes | Docker | Jenkins | Terraform | Argo CD | GitOps
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nagakrishnadevabathini-tech&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+Building scalable cloud infrastructure, automating deployments, and implementing modern DevOps practices.
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🚀 Passionate DevOps Engineer with hands-on experience building production-style CI/CD and GitOps pipelines.
-- ☁️ Experienced with AWS Cloud services including EC2, VPC, IAM, EKS, ALB, Auto Scaling, and RDS.
-- 🐳 Containerizing applications using Docker.
-- ☸️ Deploying and managing applications on Kubernetes (Amazon EKS).
-- ⚙️ Building automated CI/CD pipelines using Jenkins.
-- 🔄 Implementing GitOps deployments using Argo CD.
-- 🌍 Automating cloud infrastructure using Terraform.
-- 🔐 Integrating SonarQube and Trivy for code quality and security scanning.
-- 📚 Currently learning Advanced Kubernetes and GitHub Actions.
-- 💼 Open to DevOps Engineer opportunities.
+I am a DevOps Engineer with hands-on experience designing, automating, and deploying cloud-native applications on AWS. My expertise includes building production-style CI/CD pipelines, implementing GitOps workflows, provisioning infrastructure as code, and deploying containerized applications on Kubernetes.
+
+I enjoy solving infrastructure challenges, automating repetitive tasks, and continuously improving software delivery using modern DevOps tools and cloud technologies.
+
+I am currently seeking **DevOps Engineer** opportunities where I can contribute, learn, and grow while building reliable and scalable infrastructure.
 
 ---
 
-# 🚀 Tech Stack
+## Technical Skills
 
-### ☁️ Cloud
-- AWS (EC2, IAM, VPC, EKS, ALB, Auto Scaling, RDS)
+### Cloud Platforms
+- Amazon Web Services (AWS)
+  - EC2
+  - VPC
+  - IAM
+  - EKS
+  - ALB
+  - Auto Scaling
+  - RDS
+  - CloudFormation
 
-### 🐳 Containers
+### Containerization & Orchestration
 - Docker
 - Kubernetes
 - Amazon EKS
 
-### ⚙️ CI/CD
+### CI/CD & GitOps
 - Jenkins
-- GitHub Actions
 - Argo CD
+- GitHub
+- GitHub Actions (Learning)
 
-### 🌍 Infrastructure as Code
+### Infrastructure as Code
 - Terraform
 
-### 🔐 DevSecOps
+### DevSecOps
 - SonarQube
 - Trivy
 
-### 📊 Monitoring
+### Monitoring
 - Prometheus
 - Grafana
 
-### 💻 Version Control
-- Git
-- GitHub
-
-### 🖥️ Operating System
+### Operating Systems
 - Linux
 
-### 💻 Languages
+### Programming & Scripting
+- Java
 - Bash
 - Python (Basic)
 
+### Version Control
+- Git
+- GitHub
+
 ---
 
-# 🚀 Featured Projects
+# Projects
 
-## 🏆 End-to-End CI/CD GitOps Pipeline
+## End-to-End CI/CD GitOps Pipeline
 
-### Tech Stack
+Designed and implemented a production-style DevOps pipeline that automates the complete software delivery lifecycle.
 
+### Technologies
+
+- GitHub
 - Jenkins
+- Maven
 - SonarQube
 - Trivy
 - Docker
@@ -75,141 +87,131 @@
 - Kubernetes
 - Amazon EKS
 - Argo CD
-- GitHub
 
-### Highlights
+### Key Features
 
-- ✅ Automated CI/CD Pipeline
-- ✅ Code Quality Analysis using SonarQube
-- ✅ Container Security Scanning using Trivy
-- ✅ Docker Image Build & Push
-- ✅ GitOps Deployment with Argo CD
-- ✅ Automatic Kubernetes Deployment on Amazon EKS
+- Source Code Management using GitHub
+- Automated Build Pipeline with Jenkins
+- Static Code Analysis using SonarQube
+- Container Security Scanning using Trivy
+- Docker Image Build and Push
+- GitOps-based Deployment using Argo CD
+- Automated Deployment to Amazon EKS
 
 ---
 
-## ☸️ Kubernetes Voting Application
+## GitOps Deployment with Argo CD
 
-A production-style microservices application deployed on Amazon EKS.
+Implemented a GitOps workflow for deploying applications to Kubernetes using Argo CD.
 
-### Components
+### Highlights
 
-- Voting App
-- Result App
+- Declarative Kubernetes Deployments
+- Continuous Synchronization
+- Automatic Rollbacks
+- Self-Healing Applications
+- Kubernetes on Amazon EKS
+
+---
+
+## Kubernetes Voting Application
+
+Deployed a production-style microservices application on Amazon EKS.
+
+### Architecture
+
+- Voting Application
+- Result Application
 - Worker Service
 - Redis
 - PostgreSQL
 
-### Features
+### Kubernetes Components
 
-- Kubernetes Deployments
+- Deployments
 - ReplicaSets
 - Services
 - LoadBalancer
-- AWS EKS
+- Configurations for High Availability
 
 ---
 
-## 🚀 GitOps Deployment using Argo CD
+## AWS Three-Tier Architecture
 
-Automated deployment of a Facebook application using GitOps principles.
-
-### Features
-
-- Argo CD
-- Kubernetes
-- Automated Sync
-- Self Healing
-- GitHub Integration
-- Amazon EKS
-
----
-
-## ☁️ AWS Three-Tier Architecture
-
-Designed and deployed a secure and scalable AWS infrastructure.
+Designed a secure and scalable three-tier architecture on AWS.
 
 ### Services Used
 
-- VPC
-- EC2
-- Auto Scaling Group
-- Application Load Balancer
+- Amazon VPC
+- Public & Private Subnets
+- Internet Gateway
 - NAT Gateway
 - Bastion Host
-- RDS
+- Application Load Balancer
+- EC2
+- Auto Scaling Group
+- Amazon RDS
+- Security Groups
 
 ---
 
-## 🌍 Terraform Infrastructure as Code
+## Terraform Infrastructure Automation
 
-Provisioned AWS infrastructure using reusable Terraform modules.
+Provisioned AWS infrastructure using Infrastructure as Code principles.
 
 ### Features
 
-- Infrastructure as Code
-- Modular Terraform
-- AWS Resource Provisioning
-- Remote State
-- Reusable Modules
+- Modular Terraform Code
+- Reusable Infrastructure
+- Infrastructure Provisioning
+- State Management
+- Resource Automation
 
 ---
 
-# 📈 GitHub Stats
+# GitHub Statistics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nagakrishnadevabathini-tech&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=nagakrishnadevabathini-tech&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagakrishnadevabathini-tech&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagakrishnadevabathini-tech&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nagakrishnadevabathini-tech&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nagakrishnadevabathini-tech&theme=github-dark&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏅 Certifications
+## Professional Goals
 
-- 📖 AWS Certified Cloud Practitioner *(Preparing)*
-- 📖 HashiCorp Terraform Associate *(Preparing)*
-- 📖 Certified Kubernetes Administrator (CKA) *(Future Goal)*
+- Deepen expertise in Kubernetes Administration
+- Master GitHub Actions
+- Learn Helm and Kubernetes Operators
+- Build production-scale cloud infrastructure
+- Contribute to Open Source DevOps projects
+- Continuously improve DevSecOps practices
 
 ---
 
-# 📫 Connect With Me
+## Connect
 
-📧 **Email**
+**Email**
 
 **nagakrishnadevabathini@gmail.com**
 
-💼 **LinkedIn**
+**LinkedIn**
 
 https://www.linkedin.com/in/nagakrishna-devabathini
 
-💻 **GitHub**
+**GitHub**
 
 https://github.com/nagakrishnadevabathini-tech
 
 ---
 
-# 🌟 Goals for 2026
-
-- Master Kubernetes Administration
-- Learn GitHub Actions
-- Learn Helm
-- Learn AWS DevOps Services
-- Build Production-Ready DevOps Projects
-- Contribute to Open Source
-
----
-
-# ⭐ Thanks for visiting my profile!
-
-> **Passionate about building scalable cloud infrastructure, automating deployments, and implementing modern DevOps practices. Always learning, building, and improving.**
-
-⭐ If you like my projects, don't forget to **Star** the repositories!
+> *"Automation is not replacing engineers; it empowers engineers to build better systems."*
