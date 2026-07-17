@@ -42,7 +42,7 @@ I am currently seeking **DevOps Engineer** opportunities where I can contribute,
 - Jenkins
 - Argo CD
 - GitHub
-- GitHub Actions (Learning)
+- GitHub Actions 
 
 ### Infrastructure as Code
 - Terraform
@@ -59,9 +59,8 @@ I am currently seeking **DevOps Engineer** opportunities where I can contribute,
 - Linux
 
 ### Programming & Scripting
-- Java
 - Bash
-- Python (Basic)
+- Python
 
 ### Version Control
 - Git
