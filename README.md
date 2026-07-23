@@ -5,336 +5,83 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00AEEF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile+%F0%9F%91%8B;Aspiring+DevOps+Engineer+%F0%9F%9A%80;Automate+%E2%86%92+Deploy+%E2%86%92+Monitor+%E2%86%92+Scale;Building+Cloud+%26+DevOps+Projects+%E2%98%81%EF%B8%8F;Learning+Something+New+Every+Day+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00AEEF&center=true&vCenter=true&width=700&lines=Aspiring+DevOps+Engineer+%F0%9F%9A%80;AWS+%7C+Docker+%7C+Kubernetes+%7C+Jenkins;Automate+%E2%86%92+Deploy+%E2%86%92+Monitor+%E2%86%92+Scale" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Nagakrishna Devabathini**, an aspiring **DevOps Engineer** passionate about cloud infrastructure, automation, containerization, and continuous delivery.
+I'm **Nagakrishna Devabathini**, an aspiring **DevOps Engineer** passionate about **Cloud, Automation, CI/CD, and Kubernetes**.
 
-I enjoy building hands-on projects that connect development and operations through automation and modern DevOps practices.
+🚀 Building hands-on DevOps projects  
+☁️ AWS & Amazon EKS  
+🐳 Docker & Kubernetes  
+🔄 Jenkins & CI/CD  
+🏗️ Terraform & Infrastructure as Code  
+🔐 SonarQube & Trivy  
+🔁 GitOps with Argo CD  
+📊 Prometheus & Grafana  
 
-- 🚀 Aspiring **DevOps Engineer**
-- ☁️ Working with **AWS Cloud**
-- 🐳 Building and managing **Docker containers**
-- ☸️ Deploying applications on **Kubernetes & Amazon EKS**
-- 🔄 Building **CI/CD pipelines with Jenkins**
-- 🏗️ Practicing **Infrastructure as Code with Terraform**
-- 🔐 Exploring **DevSecOps with SonarQube & Trivy**
-- 🔁 Learning **GitOps with Argo CD**
-- 📊 Exploring **Monitoring with Prometheus & Grafana**
-- 💼 Open to **DevOps / Cloud Engineer opportunities**
-
-> 💡 **My goal is to automate deployments, improve infrastructure reliability, and continuously learn modern DevOps and cloud technologies.**
+💼 **Open to DevOps / Cloud Engineer opportunities**
 
 ---
-
-## 🚀 My DevOps Journey
-
-```text
-        👨‍💻 CODE
-           │
-           ▼
-       🔀 GITHUB
-           │
-           ▼
-      🔨 JENKINS
-           │
-           ▼
-       🏗️ MAVEN
-           │
-           ▼
-     🔍 SONARQUBE
-           │
-           ▼
-       🛡️ TRIVY
-           │
-           ▼
-       🐳 DOCKER
-           │
-           ▼
-      📦 DOCKER HUB
-           │
-           ▼
-       📝 GITOPS
-           │
-           ▼
-       🔄 ARGO CD
-           │
-           ▼
-     ☸️ KUBERNETES
-           │
-           ▼
-       ☁️ AWS EKS
-           │
-           ▼
-    📊 MONITORING
-           │
-           ▼
-       🚀 DEPLOYED
-```
-
----
-
-### 🔄 My DevOps Workflow
-
-**GitHub** → **Jenkins** → **Maven** → **SonarQube** → **Trivy** → **Docker** → **Docker Hub** → **Argo CD** → **Kubernetes** → **AWS EKS**
-
-> 🚀 **Code → Build → Secure → Containerize → Deploy → Monitor → Scale**
->
-> ---
 
 ## 🛠️ Tech Stack
 
-### ☁️ Cloud & Infrastructure
-
-<p>
-  <img src="https://skillicons.dev/icons?i=aws,terraform,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,jenkins,terraform,git,github,githubactions,python,bash" />
 </p>
 
-`AWS` `EC2` `VPC` `IAM` `EKS` `ALB` `Auto Scaling` `RDS` `CloudFormation`
-
----
-
-### 🐳 Containers & Orchestration
-
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+<p align="center">
+  <b>AWS</b> • <b>Docker</b> • <b>Kubernetes</b> • <b>Jenkins</b> •
+  <b>Terraform</b> • <b>Git</b> • <b>GitHub</b> • <b>Argo CD</b> •
+  <b>SonarQube</b> • <b>Trivy</b> • <b>Prometheus</b> • <b>Grafana</b>
 </p>
 
-`Docker` `Kubernetes` `Amazon EKS`
-
 ---
 
-### 🔄 CI/CD & GitOps
+## 🚀 Featured Projects
 
-<p>
-  <img src="https://skillicons.dev/icons?i=jenkins,github,git,githubactions" />
-</p>
+### ☁️ End-to-End DevOps CI/CD Pipeline
 
-`Jenkins` `GitHub` `GitHub Actions` `Argo CD` `Git`
+**GitHub → Jenkins → Maven → SonarQube → Trivy → Docker → Docker Hub → Argo CD → Kubernetes → AWS EKS**
 
----
+- Automated CI/CD pipeline using Jenkins
+- SonarQube code quality analysis
+- Trivy container security scanning
+- Docker image build and publishing
+- GitOps deployment using Argo CD
+- Kubernetes deployment on Amazon EKS
 
-### 🔐 DevSecOps
+### ☸️ Cats vs Dogs Voting Application
 
-`SonarQube` `Trivy`
+Microservices application deployed on **Amazon EKS** using Kubernetes.
 
----
-
-### 📊 Monitoring & Observability
-
-`Prometheus` `Grafana`
-
----
-
-## 🚀 Featured Project
-
-### ☁️ End-to-End DevOps CI/CD Pipeline on AWS EKS
-
-An end-to-end DevOps project implementing automated application delivery from source code to Kubernetes deployment.
-
-### 🔄 CI/CD Workflow
-
-```text
-Developer
-    │
-    ▼
-  GitHub
-    │
-    ▼
-  Jenkins
-    │
-    ├── Maven Build
-    │
-    ├── SonarQube Analysis
-    │
-    ├── Quality Gate
-    │
-    ├── Docker Build
-    │
-    └── Trivy Security Scan
-    │
-    ▼
- Docker Hub
-    │
-    ▼
- GitOps Repository
-    │
-    ▼
-  Argo CD
-    │
-    ▼
- Amazon EKS
-    │
-    ▼
- Kubernetes
-    │
-    ▼
- Application 🚀
-```
-
-### 🔧 Technologies Used
-
-`AWS` `Amazon EKS` `Kubernetes` `Docker` `Jenkins` `Maven` `SonarQube` `Trivy` `Argo CD` `GitHub` `Terraform` `Linux`
-
-### 🎯 Key Highlights
-
-- ✅ Automated CI/CD pipeline using Jenkins
-- ✅ Source code management with GitHub
-- ✅ Maven application build
-- ✅ Static code analysis with SonarQube
-- ✅ Quality Gate validation
-- ✅ Docker image creation and publishing
-- ✅ Container security scanning with Trivy
-- ✅ GitOps deployment using Argo CD
-- ✅ Kubernetes deployment on Amazon EKS
-- ✅ AWS Load Balancer integration
-- ✅ Infrastructure provisioning using Terraform
+**Technologies:** `Kubernetes` `Docker` `Redis` `PostgreSQL` `AWS EKS`
 
 ---
-
-### 💻 Scripting
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,bash" />
-</p>
-
-`Python (Basic)` `Bash`
----
-
-## ☸️ Kubernetes Project
-
-### 🐱 Cats vs Dogs Voting Application
-
-A microservices-based voting application deployed on **Amazon EKS** using Kubernetes.
-
-### 🏗️ Architecture
-
-```text
-                 👤 USER
-                   │
-          ┌────────┴────────┐
-          ▼                 ▼
-   🗳️ VOTING APP       📊 RESULT APP
-          │                 │
-          ▼                 ▼
-       🔴 REDIS        🐘 POSTGRESQL
-          ▲                 ▲
-          │                 │
-          └───────┬─────────┘
-                  │
-                  ▼
-              ⚙️ WORKER
-                  │
-                  ▼
-             ☸️ KUBERNETES
-                  │
-                  ▼
-               ☁️ AWS EKS
-```
-
-### 🔧 Technologies Used
-
-`AWS EKS` `Kubernetes` `Docker` `Redis` `PostgreSQL`
-
-### ☸️ Kubernetes Resources
-
-- 📦 Pods
-- 🚀 Deployments
-- 🔄 ReplicaSets
-- 🌐 Services
-- 🔵 ClusterIP
-- 🟢 LoadBalancer
-- ⚙️ ConfigMaps
-- 💾 Persistent Volumes
-- 📋 Persistent Volume Claims
-- 💽 AWS EBS Storage
-
-### 🎯 Key Highlights
-
-- ✅ Deployed a microservices-based application on Amazon EKS
-- ✅ Created Kubernetes Deployments and Services
-- ✅ Used Redis for application data processing
-- ✅ Used PostgreSQL as the database
-- ✅ Configured ClusterIP services for internal communication
-- ✅ Exposed applications using AWS LoadBalancer
-- ✅ Configured persistent storage using Kubernetes PV and PVC
-- ✅ Used AWS EBS for persistent storage
-- ✅ Managed application workloads using Kubernetes
-
----
-## 📚 Currently Learning
-
-- ☁️ Advanced AWS & Cloud Architecture
-- ☸️ Kubernetes & Amazon EKS
-- 🏗️ Terraform & Infrastructure as Code
-- 🔄 CI/CD Automation
-- 🔐 DevSecOps
-- 🔁 GitOps & Argo CD
-- 📊 Prometheus & Grafana
-- 🐧 Linux & Shell Scripting
-
----
-
-## 🎯 2026 Goals
-
-- [ ] 🚀 Become a DevOps Engineer
-- [ ] ☁️ Strengthen AWS skills
-- [ ] ☸️ Improve Kubernetes & Amazon EKS skills
-- [ ] 🏗️ Improve Terraform & Infrastructure as Code skills
-- [ ] 🔄 Build production-ready CI/CD pipelines
-- [ ] 🔐 Implement DevSecOps practices
-- [ ] 🔁 Improve GitOps skills with Argo CD
-- [ ] 📊 Learn monitoring and observability
-- [ ] 🌍 Contribute to Open Source
-- [ ] 💼 Join a great DevOps team
-
----
-
-> 🚀 **Learning every day. Building every day. Automating every day.**---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=nagakrishna-devabathini&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagakrishna-devabathini&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=nagakrishna-devabathini&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=nagakrishna-devabathini&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+## 🤝 Let's Connect
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=nagakrishna-devabathini&theme=tokyonight&hide_border=true"
-  />
-</p>
->
-> ---
-
-## 🚀 My Contribution Journey
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/nagakrishna-devabathini/nagakrishna-devabathini/output/github-contribution-grid-snake-dark.svg"
-    alt="GitHub Contribution Animation"
-  />
+  <a href="https://github.com/nagakrishna-devabathini">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/nagakrishnadevabathini/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
 </p>
 
-<p align="center">
-
-🚀 **Code → Build → Secure → Containerize → Deploy → Monitor → Scale**
-
-</p>
-
-
-
+<h3 align="center">
+🚀 Automate. Deploy. Monitor. Scale.
+</h3>
