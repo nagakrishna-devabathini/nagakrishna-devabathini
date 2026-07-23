@@ -83,3 +83,57 @@ I enjoy building hands-on projects that connect development and operations throu
 **GitHub** → **Jenkins** → **Maven** → **SonarQube** → **Trivy** → **Docker** → **Docker Hub** → **Argo CD** → **Kubernetes** → **AWS EKS**
 
 > 🚀 **Code → Build → Secure → Containerize → Deploy → Monitor → Scale**
+>
+> ---
+
+## 🛠️ Tech Stack
+
+### ☁️ Cloud & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,linux" />
+</p>
+
+`AWS` `EC2` `VPC` `IAM` `EKS` `ALB` `Auto Scaling` `RDS` `CloudFormation`
+
+---
+
+### 🐳 Containers & Orchestration
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+</p>
+
+`Docker` `Kubernetes` `Amazon EKS`
+
+---
+
+### 🔄 CI/CD & GitOps
+
+<p>
+  <img src="https://skillicons.dev/icons?i=jenkins,github,git,githubactions" />
+</p>
+
+`Jenkins` `GitHub` `GitHub Actions` `Argo CD` `Git`
+
+---
+
+### 🔐 DevSecOps
+
+`SonarQube` `Trivy`
+
+---
+
+### 📊 Monitoring & Observability
+
+`Prometheus` `Grafana`
+
+---
+
+### 💻 Scripting
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash" />
+</p>
+
+`Python (Basic)` `Bash`
