@@ -130,6 +130,72 @@ I enjoy building hands-on projects that connect development and operations throu
 
 ---
 
+## 🚀 Featured Project
+
+### ☁️ End-to-End DevOps CI/CD Pipeline on AWS EKS
+
+An end-to-end DevOps project implementing automated application delivery from source code to Kubernetes deployment.
+
+### 🔄 CI/CD Workflow
+
+```text
+Developer
+    │
+    ▼
+  GitHub
+    │
+    ▼
+  Jenkins
+    │
+    ├── Maven Build
+    │
+    ├── SonarQube Analysis
+    │
+    ├── Quality Gate
+    │
+    ├── Docker Build
+    │
+    └── Trivy Security Scan
+    │
+    ▼
+ Docker Hub
+    │
+    ▼
+ GitOps Repository
+    │
+    ▼
+  Argo CD
+    │
+    ▼
+ Amazon EKS
+    │
+    ▼
+ Kubernetes
+    │
+    ▼
+ Application 🚀
+```
+
+### 🔧 Technologies Used
+
+`AWS` `Amazon EKS` `Kubernetes` `Docker` `Jenkins` `Maven` `SonarQube` `Trivy` `Argo CD` `GitHub` `Terraform` `Linux`
+
+### 🎯 Key Highlights
+
+- ✅ Automated CI/CD pipeline using Jenkins
+- ✅ Source code management with GitHub
+- ✅ Maven application build
+- ✅ Static code analysis with SonarQube
+- ✅ Quality Gate validation
+- ✅ Docker image creation and publishing
+- ✅ Container security scanning with Trivy
+- ✅ GitOps deployment using Argo CD
+- ✅ Kubernetes deployment on Amazon EKS
+- ✅ AWS Load Balancer integration
+- ✅ Infrastructure provisioning using Terraform
+
+---
+
 ### 💻 Scripting
 
 <p>
