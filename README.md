@@ -203,3 +203,138 @@ Developer
 </p>
 
 `Python (Basic)` `Bash`
+---
+
+## ☸️ Kubernetes Project
+
+### 🐱 Cats vs Dogs Voting Application
+
+A microservices-based voting application deployed on **Amazon EKS** using Kubernetes.
+
+### 🏗️ Architecture
+
+```text
+                 👤 USER
+                   │
+          ┌────────┴────────┐
+          ▼                 ▼
+   🗳️ VOTING APP       📊 RESULT APP
+          │                 │
+          ▼                 ▼
+       🔴 REDIS        🐘 POSTGRESQL
+          ▲                 ▲
+          │                 │
+          └───────┬─────────┘
+                  │
+                  ▼
+              ⚙️ WORKER
+                  │
+                  ▼
+             ☸️ KUBERNETES
+                  │
+                  ▼
+               ☁️ AWS EKS
+```
+
+### 🔧 Technologies Used
+
+`AWS EKS` `Kubernetes` `Docker` `Redis` `PostgreSQL`
+
+### ☸️ Kubernetes Resources
+
+- 📦 Pods
+- 🚀 Deployments
+- 🔄 ReplicaSets
+- 🌐 Services
+- 🔵 ClusterIP
+- 🟢 LoadBalancer
+- ⚙️ ConfigMaps
+- 💾 Persistent Volumes
+- 📋 Persistent Volume Claims
+- 💽 AWS EBS Storage
+
+### 🎯 Key Highlights
+
+- ✅ Deployed a microservices-based application on Amazon EKS
+- ✅ Created Kubernetes Deployments and Services
+- ✅ Used Redis for application data processing
+- ✅ Used PostgreSQL as the database
+- ✅ Configured ClusterIP services for internal communication
+- ✅ Exposed applications using AWS LoadBalancer
+- ✅ Configured persistent storage using Kubernetes PV and PVC
+- ✅ Used AWS EBS for persistent storage
+- ✅ Managed application workloads using Kubernetes
+
+---
+## 📚 Currently Learning
+
+- ☁️ Advanced AWS & Cloud Architecture
+- ☸️ Kubernetes & Amazon EKS
+- 🏗️ Terraform & Infrastructure as Code
+- 🔄 CI/CD Automation
+- 🔐 DevSecOps
+- 🔁 GitOps & Argo CD
+- 📊 Prometheus & Grafana
+- 🐧 Linux & Shell Scripting
+
+---
+
+## 🎯 2026 Goals
+
+- [ ] 🚀 Become a DevOps Engineer
+- [ ] ☁️ Strengthen AWS skills
+- [ ] ☸️ Improve Kubernetes & Amazon EKS skills
+- [ ] 🏗️ Improve Terraform & Infrastructure as Code skills
+- [ ] 🔄 Build production-ready CI/CD pipelines
+- [ ] 🔐 Implement DevSecOps practices
+- [ ] 🔁 Improve GitOps skills with Argo CD
+- [ ] 📊 Learn monitoring and observability
+- [ ] 🌍 Contribute to Open Source
+- [ ] 💼 Join a great DevOps team
+
+---
+
+> 🚀 **Learning every day. Building every day. Automating every day.**---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nagakrishna-devabathini&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nagakrishna-devabathini&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=nagakrishna-devabathini&theme=tokyonight&hide_border=true"
+  />
+</p>
+>
+> ---
+
+## 🚀 My Contribution Journey
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/nagakrishna-devabathini/nagakrishna-devabathini/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Animation"
+  />
+</p>
+
+<p align="center">
+
+🚀 **Code → Build → Secure → Containerize → Deploy → Monitor → Scale**
+
+</p>
+
+
+
