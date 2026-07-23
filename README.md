@@ -28,3 +28,58 @@ I enjoy building hands-on projects that connect development and operations throu
 - 💼 Open to **DevOps / Cloud Engineer opportunities**
 
 > 💡 **My goal is to automate deployments, improve infrastructure reliability, and continuously learn modern DevOps and cloud technologies.**
+
+---
+
+## 🚀 My DevOps Journey
+
+```text
+        👨‍💻 CODE
+           │
+           ▼
+       🔀 GITHUB
+           │
+           ▼
+      🔨 JENKINS
+           │
+           ▼
+       🏗️ MAVEN
+           │
+           ▼
+     🔍 SONARQUBE
+           │
+           ▼
+       🛡️ TRIVY
+           │
+           ▼
+       🐳 DOCKER
+           │
+           ▼
+      📦 DOCKER HUB
+           │
+           ▼
+       📝 GITOPS
+           │
+           ▼
+       🔄 ARGO CD
+           │
+           ▼
+     ☸️ KUBERNETES
+           │
+           ▼
+       ☁️ AWS EKS
+           │
+           ▼
+    📊 MONITORING
+           │
+           ▼
+       🚀 DEPLOYED
+```
+
+---
+
+### 🔄 My DevOps Workflow
+
+**GitHub** → **Jenkins** → **Maven** → **SonarQube** → **Trivy** → **Docker** → **Docker Hub** → **Argo CD** → **Kubernetes** → **AWS EKS**
+
+> 🚀 **Code → Build → Secure → Containerize → Deploy → Monitor → Scale**
